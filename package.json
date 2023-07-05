@@ -55,8 +55,7 @@
     "whatwg-encoding": "^2.0.0"
   },
   "devDependencies": {
-    "http-server": "^14.1.1",
-    "nodemon": "^2.0.22"
+    "live-server": "^1.2.2"
   },
   "scripts": {
     "test": "test"
